@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Eyyüp</h1>
+<h1 align="center">Hi 👋, I'm Eyyup</h1>
 <h3 align="center">A student who is been trying to be a python developer from Turkey.</h3>
 
 - 📫 How to reach me **eyyupordueri@gmail.com**

@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I'm currently student at Clarusway IT Bootcamp .
-- 🌱 I’m currently learning || JAVASCRIPT || REACT ||
+- 🔭 I'm Tech Supporter at Gurkanzone.
+- 🌱 I’m currently studying || JAVASCRIPT || REACT || PYTHON || DJANGO ||
 - 💬 Ask me anything about IT.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eyy%C3%BCp-ordueri/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eyyup-ordueri/)
 
 - ![](https://komarev.com/ghpvc/?username=eyyupordueri&blue)
 
